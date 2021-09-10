@@ -1,0 +1,9 @@
+.foto {
+  border-radius: 300px;
+}
+.fotoTwo {
+  float: right;
+
+  padding: 4px;
+  margin: 0 10px 5px 0;
+}
